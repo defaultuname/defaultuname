@@ -1,9 +1,7 @@
 ### defaultuname
-you can call me Danila
-## Software developer
-- :house: Russia, Saint-Petersburg  
-- :man_student: Currently learning Java 
-- 💬 Ask me about Java, Hibernate and Spring Framework
-## Connect with me
+Зовут Данила.
+## Разработчик на джаве
+В данный момент не ищу работу.
+## Связаться со мной
 - email: `vikknestr@gmail.com`
 - telegram: `@defuname`
